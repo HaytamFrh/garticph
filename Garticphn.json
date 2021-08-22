@@ -19,12 +19,12 @@
 	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter4":"ca-app-pub-3940256099942544/1033173712",
 
-	"MO_PUB_AD_UNIT_ID":"b195f8dd8ded45fe847ad89ed1d016da",
-	"MO_PUB_BANNER_ID":"b195f8dd8ded45fe847ad89ed1d016da",
-	"MO_PUB_INTERSTITIAL_ID":"24534e1901884e398f1253216226017e",
+	"MO_PUB_AD_UNIT_ID":"fac5323d39a44626bdc5524bfe843044",
+	"MO_PUB_BANNER_ID":"fac5323d39a44626bdc5524bfe843044",
+	"MO_PUB_INTERSTITIAL_ID":"ad3f4b1ada2745af9d739226eb496c8a",
 
 	"whichAds":1,
 
-	"isLastPageShow":true
+	"isLastPageShow":false
 
 }
